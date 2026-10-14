@@ -1,0 +1,1 @@
+Publicar en la cuenta lfvt24, repositorio público cv-luis-villa. Subir todos los archivos descomprimidos a la raíz. Settings > Pages > Deploy from a branch > main > /(root) > Save. Si usas otra cuenta o nombre de repositorio, reemplaza https://lfvt24.github.io/cv-luis-villa/ en index.html por la URL final. El PDF es el original y conserva la cédula.
